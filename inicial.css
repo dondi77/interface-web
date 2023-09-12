@@ -1,0 +1,163 @@
+body {
+	width: 100%;
+    font-family: Gill Sans, sans-serif;
+    background-color: #FFF7F7;
+	margin: 0px;
+	padding: 0px;
+}
+ 	  
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	background-color: #D74848;
+    z-index: 10;
+	color: #FFFFFF;
+	min-height: 200px;
+}
+
+header section{
+	width: 40%;
+	float:left;
+	padding: 20px 20px 20px 20px;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+figure {
+	height: 20px;
+    width: 20px;
+	border: #FFFFFF solid;
+	padding : 5px;
+	max-width: 220px;
+	margin: auto;
+}
+	
+	
+	
+	
+
+nav {
+  display: block;
+  clear: both;
+ 
+}
+
+nav a {
+  text-decoration: none;
+  color: #D74848;
+  font-family: Raleway;
+  margin: 0px 100px 0px 100px; /*cima, direita, baixo, esquerda*/
+  padding: 10px;
+  background-color: #FF7878;
+  border-radius: 100px;
+   width: 100%;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #FF7878;
+  font-family: Raleway;
+  margin: 0px 100px 0px 100px; /*cima, direita, baixo, esquerda*/
+  padding: 13px;
+  width: 20%;
+  height: 20px;
+  background-color: #FFFFFF;
+  border-radius: 100px;
+}
+
+
+
+
+
+
+
+main{
+	width: 85%;
+	float: left;
+	padding-top: 200px;
+}
+
+
+
+
+
+
+aside {
+	width: 15%;
+	float: left;
+	padding-top: 200px;
+	backgroung-color: #D74848;
+}
+
+
+
+
+
+
+
+article {
+	margin-left: auto;
+    margin-right: auto;	
+	border-width: 15px 15px 15px 15px;
+	border-style: solid;
+	border-color: #D74848;
+	margin-top: 50px;
+    width: 15%;
+	padding: 5%;
+	color: #D74848;
+	border-radius: 25px;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+}
+
+
+
+
+
+
+
+table {
+    width: 350px;}
+th, td {
+    padding:7px 10px 10px 10px;}
+th {
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-size: 90%;
+	border-bottom: 2px solid #111111;
+	border-top: 1px solid #999;
+	text-align: left;}
+tr {
+	background-color: #FF7878;}
+tr:hover {
+	background-color: #FF7878;}
+.money {
+	text-align: right;}
+
+ 
+ 
+ 
+ 
+ 
+ 
+footer {
+	width: 100%;
+	clear: both;
+	text-align: center;
+	border-top: 1px dashed #AA3232;
+}
